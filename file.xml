@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<arithmetic>
+    <expression> (a+b)*c+2+36/8 </expression>
+    <variables>
+        <variable name="a" value="2"/>
+        <variable name="b" value="3"/>
+        <variable name="c" value="4"/>
+    </variables>
+</arithmetic>

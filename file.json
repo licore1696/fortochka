@@ -1,0 +1,8 @@
+{
+    "expression": "((a+b)*c/9+1)",
+    "variables": [
+        { "name": "a", "value": "2" },
+        { "name": "b", "value": "3" },
+        { "name": "c", "value": "4" }
+    ]
+}
